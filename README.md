@@ -1,4 +1,4 @@
-# betterStats4GFFCompare
+# moreStats4GFFCompare
 ### Author: Daniel Kunk, 2025
 Small script to extract counts for GFFcompare class codes and single/multi exon transcripts.
 
